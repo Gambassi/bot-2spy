@@ -1,5 +1,5 @@
 {
-    "token": "OTkwMjU2NjEwMDkxODgwNTE4.G90b2n.qzZFEEW9Vi2GVSKl4uy5XDCiCEzWVNw-FGxVDo",
+    "token": "process.env.token",
     "prefix": "$",
     "status": "Dev by 2$py#6495",
     "suburl": {

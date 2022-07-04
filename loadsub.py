@@ -99,4 +99,4 @@ async def help(ctx):
     embed.add_field(name="**change_color_embed**",value=f"**Usage :** ``{configs['prefix']}change_color_embed couleur``",inline=False)
     await ctx.send(embed=embed)
 
-bot.run(configs["token"])
+bot.run(process.env.TOKEN)
